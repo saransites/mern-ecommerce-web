@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1825dd1f.css",
+    "main.js": "/static/js/main.694fce0d.js",
+    "static/media/allshirt.jpg": "/static/media/allshirt.8dd725ef6005d1a26430.jpg",
+    "static/media/pexels-cottonbro-studio-9429437.jpg": "/static/media/pexels-cottonbro-studio-9429437.aa28da83cd69037a806f.jpg",
+    "static/media/pexels-rahib-yaqubov-17555285.jpg": "/static/media/pexels-rahib-yaqubov-17555285.46eec80bc427f6638b6d.jpg",
+    "static/media/menpants.jpg": "/static/media/menpants.78e1bcd66e8d9e564d7c.jpg",
+    "static/media/pexels-karolina-grabowska-4735935.jpg": "/static/media/pexels-karolina-grabowska-4735935.c33aab4409041783d75b.jpg",
+    "static/media/girlsShopping.png": "/static/media/girlsShopping.29e0f18a58e232e9c484.png",
+    "static/media/6859025.jpg": "/static/media/6859025.d9997cb1cd188ae8bb46.jpg",
+    "static/media/all electronics.jpg": "/static/media/all electronics.daa21e103746123a716c.jpg",
+    "static/media/electronics.jpeg": "/static/media/electronics.7a4103444a7fa4cf924a.jpeg",
+    "static/media/smartWatch.jpg": "/static/media/smartWatch.e86feada67e26f1e2eb7.jpg",
+    "static/media/shirts.png": "/static/media/shirts.3ee50451a8bac99f10a8.png",
+    "static/media/mensWear.jpg": "/static/media/mensWear.b5e025bb3d46d025147c.jpg",
+    "index.html": "/index.html",
+    "main.1825dd1f.css.map": "/static/css/main.1825dd1f.css.map",
+    "main.694fce0d.js.map": "/static/js/main.694fce0d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1825dd1f.css",
+    "static/js/main.694fce0d.js"
+  ]
+}
