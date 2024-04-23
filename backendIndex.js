@@ -34,7 +34,7 @@ const Collection = mongoose.model(
 app.use(express.static(path.join(__dirname, "frontend", "build")));
 
 // Serve 'index.html' for all routes
-app.get("/", function (req, res) {
+app.get("*", function (req, res) {
   res.sendFile(path.join(__dirname, "frontend", "build", "index.html"));
 });
 
